@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://find.yxqi.cn" alt="logo" ><img src="./Findreve.png" width="150"/></a>
+  <a href="https://find.yxqi.cn" alt="logo" ><img src="../Findreve.png" width="150"/></a>
   <br>
   Findreve
   <br>
